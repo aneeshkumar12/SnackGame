@@ -10,7 +10,7 @@ Collision Detection: The game ends if the snake collides with the boundaries or 
 How to Play
 Clone the Repository:
 
-git clone https://github.com/your-username/snack-game.git
+git clone https://github.com/aneeshkumar12/SnackGame.git
 Open index.html in a Web Browser:
 
 Locate the project folder on your computer.
